@@ -1,0 +1,29 @@
+{
+  "name": "sistema-de-triagem-para-upa",
+  "version": "1.0.0",
+  "description": "Sistema de Triagem e Gerenciamento de Atendimento para UPA em TypeScript",
+  "main": "src/index.ts",
+  "type": "commonjs",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts",
+    "test": "node --test --import tsx tests/**/*.test.ts"
+  },
+  "keywords": [
+    "typescript",
+    "upa",
+    "triagem",
+    "clean-architecture",
+    "clean-code"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-pattern": "^5.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
