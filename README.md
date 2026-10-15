@@ -1,3 +1,20 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/brunoemferreira/pos-web-utfpr/main/images/UTFPR_logo.svg.png" alt="UTFPR Logo" width="200">
+  <h1><strong>Pós-Graduação em Desenvolvimento Web com TypeScript e Inteligência Artificial</strong></h1>
+  <h3>Universidade Tecnológica Federal do Paraná (UTFPR)</h3>
+  <p>👨‍🎓 <strong>Aluno:</strong> Bruno E. M. Ferreira &nbsp;|&nbsp; 🎓 <strong>Turma:</strong> 2026 &nbsp;|&nbsp; 📅 <strong>Período:</strong> Abril/2026 - Março/2028</p>
+  
+  <h3>🛠️ Tecnologias Utilizadas no Projeto</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ts--pattern-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-pattern"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js_Test_Runner-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Test Runner"></a>
+  </p>
+</div>
+
+---
+
 # Sistema de Triagem e Gerenciamento de Atendimento para UPA
 
 Sistema de Triagem para Unidade de Pronto Atendimento (UPA) desenvolvido em **TypeScript** e **Node.js**, sem interface gráfica (executado via terminal CLI), aplicando rigorosamente os princípios de **Código Limpo (Clean Code)** e **Arquitetura Limpa (Clean Architecture)**.
