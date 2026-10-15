@@ -1,0 +1,38 @@
+[
+  {
+    "id": "PAC-0001",
+    "nome": "Sebastião Ferreira",
+    "idade": 68,
+    "cpf": "52998224725",
+    "telefone": "(41) 99888-1122",
+    "email": "sebastiao@email.com",
+    "sintomas": "Forte dor no peito e falta de ar severa",
+    "dataDeChegada": "2026-08-08T20:00:00.000Z",
+    "prioridade": "LARANJA",
+    "atendido": false
+  },
+  {
+    "id": "PAC-0002",
+    "nome": "Juliana Oliveira",
+    "idade": 24,
+    "cpf": "11144477735",
+    "telefone": "(41) 99111-3344",
+    "email": "juliana@email.com",
+    "sintomas": "Febre baixa e dor de cabeca",
+    "dataDeChegada": "2026-08-08T20:15:00.000Z",
+    "prioridade": "VERDE",
+    "atendido": false
+  },
+  {
+    "id": "PAC-0003",
+    "nome": "Marcos Andrade",
+    "idade": 52,
+    "cpf": "529.982.247-25",
+    "telefone": "(41) 98765-4321",
+    "email": "marcos@email.com",
+    "sintomas": "Parada cardiorrespiratoria e falta de pulso",
+    "dataDeChegada": "2026-08-08T20:30:00.000Z",
+    "prioridade": "VERMELHO",
+    "atendido": false
+  }
+]
